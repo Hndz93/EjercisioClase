@@ -7,5 +7,5 @@ class  Carro:
         return "carro en marcha"
 
     def Frenar(self):
-        return "frenando carro"
+        return "frenando"
 
